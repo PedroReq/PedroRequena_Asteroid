@@ -1,0 +1,13 @@
+
+laser.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+green_laser
+  rotate: false
+  xy: 2, 2
+  size: 421, 77
+  orig: 421, 77
+  offset: 0, 0
+  index: -1
